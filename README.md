@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @noronhaandre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi, eu sou o @noronhaandre
+- 👀 Estou interessado em aprender mais sobre programação.
+- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+- 💞️ Estou procurando colaborar e tentar entrar no mercado de trabalho.
+- 📫 Você pode entrar em contato comigo atraves do whatsapp 51-997261645
 
 <!---
 noronhaandre/noronhaandre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
